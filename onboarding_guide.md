@@ -78,3 +78,5 @@ Start going through the materials provided in this repository. Typically we star
 [Vanessa] (https://github.com/creatigeek)
 
 [Matt] (https://github.com/Gwater17)
+
+[kha2e] (https://github.com/khazelton)
